@@ -11,3 +11,8 @@ Hi, I am Saba a Front-End developer ...👾
 
 - I'm an Spiced Academy student 👩🏻‍💻🌶.
 - I’m living in Berlin 🇩🇪.
+- I love cats 🐱.
+- I’m currently learning German 👀.
+
+### Skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,figma)](https://skillicons.dev)
