@@ -2,11 +2,11 @@
 
 
 Hi, I am Saba a Front-End developer ...👾
-
-- I'm an Spiced Academy student 👩🏻‍💻🌶.
 - I’m living in Berlin 🇩🇪.
 - I love cats 🐱.
 - I’m currently learning German 👀.
+- I'm also a casual baker🍰🧁.
+
 
 
 
